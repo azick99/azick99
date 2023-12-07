@@ -1,9 +1,10 @@
+![MasterHead](https://th.bing.com/th/id/R.75ea38495d3a5bc0c90316b57f9bbfb5?rik=FM5IxvjzGHhNHg&pid=ImgRaw&r=0)
 <h1 align="center">Hi 👋, I'm Azizbek</h1>
-<h3 align="center">Enthusiastic front-end developer! I love Code and Community</h3>
-
+<h3 align="center">As an aspiring 𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | I am passionate about creating engaging and interactive web experiences that delight users.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azick99&label=Profile%20views&color=0e75b6&style=flat" alt="azick99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azick99" alt="azick99" /></a> </p>
+
 
 - 🔭 I’m currently working on [Dot Note](https://dot-note-web.netlify.app/)
 
