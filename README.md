@@ -1,31 +1,118 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Azizbek</h1>
-<h3 align="center">As an aspiring 𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | I am passionate about creating engaging and interactive web experiences that delight users.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azick99&label=Profile%20views&color=0e75b6&style=flat" alt="azick99" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Azizbek%20Yunusaliev&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
+</div>
 
+<br/>
 
-- 🔭 I’m currently working on [Dot Note](https://dot-note-web.netlify.app/)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=azick99&label=Profile%20Views&color=6e40c9&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To-Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</div>
 
-- 🌱 I’m currently learning **Nextjs, Testing**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://azizbek-yunusaliev.netlify.app/](https://azizbek-yunusaliev.netlify.app/)
+---
 
-- 💬 Ask me about **React,Redux, Tailwind-css**
+## 👨‍💻 &nbsp;About Me
 
-- 📫 How to reach me **azizbekyunusaliyev80@gmail.com**
+```ts
+const azizbek = {
+  role      : "Front-End Developer",
+  location  : "Poland, Warsaw",
+  portfolio : "https://azizbek-3-d-portfolio.vercel.app/",
+  email     : "azizbekyunusaliev99@gmail.com",
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/azizbek-yunusaliev-6b060b232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/azizbek-yunusaliev-6b060b232/" height="30" width="40" /></a>
-</p>
+  currentlyBuilding : "Azicom Blog — Smart ideas for modern teams",
+  currentlyLearning : ["Next.js", "Testing (Jest / RTL)"],
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+  askMeAbout : ["React", "Redux", "Tailwind CSS", "TypeScript"],
+  funFact    : "I turn coffee ☕ into clean, pixel-perfect UIs.",
+};
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azick99&show_icons=true&locale=en&layout=compact" alt="azick99" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azick99&show_icons=true&locale=en" alt="azick99" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azick99&" alt="azick99" /></p>
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+
+| Project | Description | Live |
+|--------|-------------|------|
+| **Azicom Blog** | Smart ideas for modern teams — my current focus | [🔗 Visit](https://azizbek-blog.vercel.app/) |
+| **3D Portfolio** | My personal portfolio built with cutting-edge tech | [🔗 Visit](https://azizbek-3-d-portfolio.vercel.app/) |
+
+</div>
+
+<br/>
+
+---
+
+## 🛠 &nbsp;Tech Stack
+
+<div align="center">
+
+### Core
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Tools & Testing
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azick99&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="170" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azick99&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azick99&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+---
+
+## 🌐 &nbsp;Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://azizbek-3-d-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizbek-yunusaliev-6b060b232/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azizbekyunusaliev99@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
