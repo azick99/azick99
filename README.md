@@ -81,14 +81,6 @@ const azizbek = {
 
 ---
 
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azick99&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="170" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azick99&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Top Languages"/>
-</div>
-
 <br/>
 
 <div align="center">
